@@ -49,6 +49,9 @@ header {
     cursor: pointer;
     margin-top: 8px;
 }
+#version-button {
+    cursor: pointer;
+}
 p {
     color: #000000;
     text-align:start;
