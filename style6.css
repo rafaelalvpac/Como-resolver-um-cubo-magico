@@ -44,6 +44,9 @@ footer {
     width: 512px;
     background-color: #10edea;
 }
+#version-button {
+    cursor: pointer;
+}    
 p {
     color: #000000;
     text-align:start;
